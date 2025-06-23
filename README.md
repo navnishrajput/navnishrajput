@@ -1,4 +1,4 @@
-![logo](https://github.com/navnishrajput/navnishrajput/blob/main/LinkedIn%20Banner.jpg)
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Navnish Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
