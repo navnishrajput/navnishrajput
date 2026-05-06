@@ -5,15 +5,15 @@
 <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Image Description" width="400" align="right">
 
 
-- 🌱 I’m currently learning **Advanced Programming, Data Science, and Cloud Computing**
+- 🌱 I'm currently learning **Spring Boot, Microservices Architecture, and System Design**
 
-- 💬 Ask me about **react, JavaScript**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, PostgreSQL, and Data Structures & Algorithms**
 
 - 📫 How to reach me **navneeshkumarrajput@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uRiAWO1xnbIUHC5EVK7ckOYFf0wcadI6/view]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mRoUbr_Zo2-v8_lSguVuac-ob0sDBEDA/view]
 
-- ⚡ Fun fact **I enjoy solving puzzles and problem-solving!**
+- ⚡ Fun fact: I built a complete ride-sharing platform from scratch as a student — from database design to real-time chat!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +32,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navnishrajput&show_icons=true&locale=en" alt="navnishrajput" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navnishrajput&" alt="navnishrajput" /></p>
+
+### 🛠️ Tech Stack
+
+**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, JDBC
+**Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript
+**Databases:** PostgreSQL, MySQL, MongoDB
+**Tools:** Git, GitHub, IntelliJ IDEA, VS Code, Postman, Maven
+**Core:** Data Structures & Algorithms, OOP, REST API Design, System Design
