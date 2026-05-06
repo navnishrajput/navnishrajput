@@ -33,10 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navnishrajput&" alt="navnishrajput" /></p>
 
-### 🛠️ Tech Stack
 
-**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, JDBC
-**Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript
-**Databases:** PostgreSQL, MySQL, MongoDB
-**Tools:** Git, GitHub, IntelliJ IDEA, VS Code, Postman, Maven
-**Core:** Data Structures & Algorithms, OOP, REST API Design, System Design
